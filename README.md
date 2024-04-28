@@ -11,8 +11,15 @@ npm install
 ```
 
 Depois clonar o arquivo `.env.example` para `.env.local`:
+
+Linux:
 ```bash
 cp .env.example .env.local
+```
+
+Windows:
+```bash
+copy .env.example .env.local
 ```
 E alterar as variáveis de ambiente.
 
